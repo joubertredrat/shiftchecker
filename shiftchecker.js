@@ -6,8 +6,8 @@
  * http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  *
  * Usage: Add a class tag in yours checkboxs as you like to enable the ShiftCheck.
- * Into jQuery or document ready function, add a shiftCheck in class that you selected.
- * Example: $(".all").shiftCheck();
+ * Into jQuery or document ready function, add a ShiftChecker in class that you selected.
+ * Example: $(".all").shiftChecker();
  * Enjoy and be happy.	
  */
 jQuery.fn.shiftChecker = function() {
