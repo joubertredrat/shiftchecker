@@ -1,0 +1,19 @@
+{
+    "name": "ShiftChecker",
+    "version": "1.2",
+    "title": "jQuery ShiftChecker",
+    "author": {
+        "name": "Joubert RedRat",
+        "url": "https://github.com/joubertredrat/shiftchecker/"
+    },
+    "licenses": [
+        {
+            "type": "GPLv2",
+            "url": "http://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+        }
+    ],
+    "dependencies": {"jquery": ">=1.2.6"},
+    "description": "This plugin provides for user to select all checkboxs into a interval when a shiftkey is pressed.",
+    "demo": "http://www.redrat.com.br/shiftchecker/",
+    "docs": "https://github.com/joubertredrat/shiftchecker/blob/master/README.md",
+}
